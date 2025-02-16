@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Realworld corp.</title>
-    <link>https://rlwrld.github.io/homepage/tags/</link>
+    <link>http://localhost:1313/homepage/tags/</link>
     <description>Recent content in Tags on Realworld corp.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://rlwrld.github.io/homepage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2025 Realworld corp. All rights reserved.</copyright><atom:link href="http://localhost:1313/homepage/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
