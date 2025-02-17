@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Realworld corp.</title>
+    <title>Realworld inc.</title>
     <link>https://rlwrld.github.io/homepage/</link>
-    <description>Recent content on Realworld corp.</description>
+    <description>Recent content on Realworld inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Realworld corp. All rights reserved.</copyright><atom:link href="https://rlwrld.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Realworld inc. All rights reserved.</copyright><atom:link href="https://rlwrld.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
